@@ -5,14 +5,14 @@
 # Name of your site (displayed in the header)
 name: "lemon's blog"
 # Short bio or description (displayed in the header)
-description: "个人技术公众号「后端技术学堂」分享、记录、成长"
+description: "大美一高"
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/lemonchann/images/raw/master/gzh/公众号二维码.png
+avatar: https://ylyg2021.cf/zzzzzzzzzz/favicon.ico
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
 
@@ -43,7 +43,7 @@ footer-links:
   email: lemonchann@foxmail.com
   facebook:
   flickr:
-  github: lemonchann 
+  github: 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
